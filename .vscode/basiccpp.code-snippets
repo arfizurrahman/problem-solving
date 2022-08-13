@@ -45,7 +45,6 @@
 			"  ll t;",
 			"  cin >> t;",
 			"  while (t--){",
-			"	  cout << \"Case #\" << t1 << \": \";",
 			"	  solve();",
 			"  }",
 			"  return 0;",

@@ -1,3 +1,13 @@
 {
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "cmath": "cpp",
+        "xiosbase": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp"
+    }
 }
